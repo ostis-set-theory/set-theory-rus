@@ -1,0 +1,6 @@
+justification_of_the_choice_platform_implementation_of_set_theory_knowledge_base
+=> nrel_main_idtf:
+	[Обоснование выбора. Платформа реализации интеллектулаьной системы по теории множеств]
+	(* <- lang_ru;; *);;
+
+.justification_of_the_choice_platform_implementation_of_set_theory_knowledge_base_translation -> rrel_example: "file://justification_of_the_choice_platform_implementation_of_set_theory_knowledge_base.html" (* <-lang_ru;; *);;

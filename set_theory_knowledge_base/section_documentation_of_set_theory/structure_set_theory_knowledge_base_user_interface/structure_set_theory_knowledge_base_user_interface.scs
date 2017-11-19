@@ -1,0 +1,6 @@
+structure_set_theory_knowledge_base_user_interface
+=> nrel_main_idtf:
+	[Структура. Пользовательский интерфейс интеллектулаьной системы по теории множеств]
+	(* <- lang_ru;; *);;
+
+structure_set_theory_knowledge_base_user_interface = [*^"file://structure_set_theory_knowledge_base_user_interface.scsi"*];;
