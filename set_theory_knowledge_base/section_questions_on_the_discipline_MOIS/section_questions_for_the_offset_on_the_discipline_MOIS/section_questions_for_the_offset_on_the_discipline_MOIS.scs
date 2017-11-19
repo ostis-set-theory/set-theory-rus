@@ -1,0 +1,5 @@
+section_questions_for_the_offset_on_the_discipline_MOIS
+=> nrel_main_idtf:
+	[Раздел. Вопросы к зачету по дисциплине МОИС] (* <- lang_ru;; *);;
+
+.section_questions_for_the_offset_on_the_discipline_MOIS_translation -> rrel_example: "file://content/content_pdfs/Вопросы к зачету 2015.pdf" (* <-lang_ru;; *);;
