@@ -1,0 +1,27 @@
+Godel
+	=> nrel_main_idtf: 
+		[Курт Фридрих Гёдель] (* <- lang_ru;; *);
+	=> nrel_idtf: 
+		[Гёдель] (* <- lang_ru;; *);;
+
+concept_Godel_theorem => nrel_main_idtf: [Теорема Гёделя] (*<- lang_ru;;*);;
+			
+Brunn => nrel_main_idtf:
+				[Брюнн, Австро-Венгрия]
+					(*
+						<-lang_ru;;
+					*);;
+
+.Godel_translation
+			-> 
+				"file://htmls/kurt_gödel_text_ru.html"
+				(*
+				<- lang_ru;;
+				*);;
+			
+.Godel_translation_image
+			-> 
+				"file://images/kurt_gödel.jpg"
+				(*
+				<- lang_ru;;
+				*);;

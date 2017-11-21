@@ -1,0 +1,12 @@
+Mirimanov
+	=> nrel_main_idtf: 
+		[Дмитрий Семёнович Мириманов] (* <- lang_ru;; *);
+	=> nrel_idtf: 
+		[Мириманов] (* <- lang_ru;; *);;
+
+Pereslavl=> nrel_main_idtf: [Переславль-Залесский, Россия]	(*	<-lang_ru;;*);;
+			
+.Mirimanov_translation	-> 	"file://htmls/Mirimanov_text_ru.html"	(*<- lang_ru;;	*);;
+			
+.Mirimanov_translation_image ->	"file://images/Mirimanov.jpg" 	(*<- lang_ru;;*);;
+	

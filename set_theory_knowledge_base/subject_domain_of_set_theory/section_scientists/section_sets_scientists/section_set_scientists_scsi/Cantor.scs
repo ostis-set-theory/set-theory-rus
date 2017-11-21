@@ -1,0 +1,30 @@
+Cantor
+	=> nrel_main_idtf: 
+		[Георг Кантор] (* <- lang_ru;; *);
+	=> nrel_idtf:
+		[Ка́нтор] (* <- lang_ru;; *);;
+set
+	=> nrel_main_idtf:
+				[Понятие Канторовского множества]
+					(*
+						<- lang_ru;;
+					*);;
+
+SanktPeterburg
+			=> nrel_main_idtf:
+				[Санкт-Петербург, РФ]
+					(*
+						<-lang_ru;;
+					*);;
+
+
+.Cantor_translation ->"file://htmls/Georg_cantor_text_ru.html"
+				(*
+				<- lang_ru;;
+				*);;
+
+.Cantor_translation_image ->
+				"file://images/Georg_cantor.jpg"
+				(*
+				<- lang_ru;;
+				*);;

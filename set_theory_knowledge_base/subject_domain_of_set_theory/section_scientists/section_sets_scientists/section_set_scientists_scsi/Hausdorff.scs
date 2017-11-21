@@ -1,0 +1,16 @@
+Hausdorff
+	=> nrel_main_idtf: 
+		[Феликс Хаусдорф] (* <- lang_ru;; *);
+	=> nrel_idtf: 
+		[Хаусдорф] (* <- lang_ru;; *);;
+	
+		
+concept_Hausdorf_space => nrel_main_idtf: [Понятие Хаусдорфового пространства] (*<- lang_ru;;*);;
+	
+concept_Hausdorff_dimension	=> nrel_main_idtf:	[Понятие Хаусдорфовой размерности] (*<-lang_ru;;*);;
+
+Wrocslaw => nrel_main_idtf:	[ Вроцслав, Польша](*	<-lang_ru;;	*);;
+
+.Hausdorff_translation	-> "file://htmls/Hausdorff_text_ru.html" (*	<- lang_ru;;*);;
+			
+.Hausdorff_translation_image-> "file://images/Hausdorff.jpg" (*	<- lang_ru;;*);;

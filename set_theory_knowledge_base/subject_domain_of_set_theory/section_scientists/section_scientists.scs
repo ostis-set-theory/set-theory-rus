@@ -1,0 +1,4 @@
+section_scientists
+=> nrel_main_idtf:
+	[Раздел. Ученые]
+	(* <- lang_ru;; *);;

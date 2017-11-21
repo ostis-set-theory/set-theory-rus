@@ -1,0 +1,26 @@
+Fraenkel
+		=> nrel_main_idtf: 
+		[Абрахам Галеви (Адольф) Френкель] (* <- lang_ru;; *);
+		=> nrel_idtf: 
+		[Френкель] (* <- lang_ru;; *);;
+ Munich
+		=> nrel_main_idtf:
+			[Мюнхен, Германия]
+				(*
+					<-lang_ru;;
+				*);;
+	
+
+.Fraenkel_translation
+			-> 
+				"file://htmls/Fraenkel_text_ru.html"
+				(*
+				<- lang_ru;;
+				*);;
+		
+.Fraenkel_translation_image
+			-> 
+				"file://images/Abraham_Fraenkel.jpg"
+				(*
+				<- lang_ru;;
+				*);;

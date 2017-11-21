@@ -1,0 +1,4 @@
+section_set_scientists => nrel_main_idtf: 
+	[Раздел. Учёные теории множеств] (* <- lang_ru;; *);;
+
+section_set_scientists = [*^"file://section_set_scientists_scsi/section_scientists_of_set_theory.scsi"*];;

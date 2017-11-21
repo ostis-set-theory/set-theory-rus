@@ -1,0 +1,25 @@
+Sierpinski
+	
+	=> nrel_main_idtf: 
+		[Вацлав Франциск Серпинский] (* <- lang_ru;; *);
+		[Серпинский] (* <- lang_ru;; *);;
+
+concept_Sierpinski_number
+	=> nrel_main_idtf: 	[Понятие чисел Серпи́нского] (*<-lang_ru;;*);;
+
+
+concept_Sierpinski_curve => nrel_main_idtf: [Понятие кривой Серпи́нского] (*	<-lang_ru;;	*);;
+
+concept_Sierpinski_carpet => nrel_main_idtf:[Понятие ковра Серпи́нского]	(*<-lang_ru;;*);;
+				
+
+concept_Sierpinski_triangle => nrel_main_idtf:	[Понятие треугольника Серпи́нского](*<-lang_ru;;	*);;
+
+concept_Sierpinski_space => nrel_main_idtf:	[Понятие пространства Серпи́нского](*<-lang_ru;;	*);;
+				
+ Warsaw	=> nrel_main_idtf: 	[Варшава, Польша] (*<-lang_ru;;	*);;
+			
+.Sierpinski_translation -> "file://htmls/Sierpinski_text_ru.html" (*<- lang_ru;;*);;
+			
+.Sierpinski_translation_image ->	"file://images/Sierpinski.jpg";;
+	

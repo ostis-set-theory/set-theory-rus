@@ -1,0 +1,44 @@
+Dedekind
+	=> nrel_main_idtf: 
+		[Ю́лиус Вильгельм Рихард Дедекинд] (* <- lang_ru;; *);
+	=> nrel_idtf: 
+		[Дедекинд] (* <- lang_ru;; *);;
+
+concept_ring
+			=> nrel_main_idtf:
+				[Понятие Кольцо]
+					(*
+						<-lang_ru;;
+					*);;
+
+concept_module_over_ring
+			=> nrel_main_idtf:
+				[Понятие модуля над кольцом]
+					(*
+						<-lang_ru;;
+					*);;
+
+concept_ideal
+			=> nrel_main_idtf:
+				[Понятие идеала]
+					(*
+						<-lang_ru;;
+					*);;
+
+Braunschweig
+			=> nrel_main_idtf:
+				[Брауншвейг, Германия]
+					(*
+						<-lang_ru;;
+					*);;
+
+.Dedekind_translation -> "file://htmls/Dedekind_text_ru.html"
+				(*
+				<- lang_ru;;
+				*);;
+			
+.Dedekind_translation_image ->
+				"file://images/Dedekind.jpg"
+				(*
+				<- lang_ru;;
+				*);;

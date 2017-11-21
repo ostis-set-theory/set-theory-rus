@@ -1,0 +1,10 @@
+Zermelo
+	=> nrel_main_idtf: 
+		[Эрнст Фридрих Фердинанд Цермело] (* <- lang_ru;; *);;
+Berlin
+	=> nrel_main_idtf:
+	[Берлин, Германия]
+	(*<-lang_ru;;*);;
+			
+.Zermelo_translation ->	"file://htmls/Zermelo_text_ru.html"	(*<- lang_ru;;	*);;
+.Zermelo_translation_image	-> 	"file://images/Ernst_Zermelo.jpg";;
